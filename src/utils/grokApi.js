@@ -24,7 +24,7 @@ Respond in **valid JSON only** with this exact structure:
     {
       "week": 1,
       "title": "Notification title",
-      "body": "The notification body copy — curated to their tier. Casual gets general WC/FIFA fun facts, Dedicated gets tactical insights about WC/FIFA, Super Fan gets deep-cut stats and niche content all should have a data point included. Do not include any specific teams as it should be more the tournament centric",
+      "body": "The notification body copy — curated to their tier. Casual gets general WC/FIFA fun facts, Dedicated gets tactical insights about WC/FIFA, Super Fan gets deep-cut stats and niche content all should have a data point included. Do not include any specific teams as it should be more the tournament centric and do not include any questions for the users.",
       "type": "kickoff" | "matchday" | "milestone" | "trivia" | "final"
     }
   ],
